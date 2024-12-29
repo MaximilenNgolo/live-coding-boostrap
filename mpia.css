@@ -1,0 +1,48 @@
+header{
+    background-image: url(./bg-1.jpg);
+    color: white;
+}
+.image1{
+    width: 400px;
+    height: 500px;
+}
+.bg{
+    background-color: black;
+}
+.eric{
+    background-image: url(./bg-3.jpg);
+    color: white;
+}
+.section2{
+    background-image: url(./bg-2.jpg);
+}
+.form2{
+    
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+
+}
+.zico{
+    width: 200px;
+}
+.petit{
+    background-image: url(./bg-1.jpg);
+    color: white;
+}
+.papa{
+    background-image: url(./bg-3.jpg);
+    color: white;
+    margin-top: 2px;
+}
+.alex{
+    width: 250px;
+    margin-left: 20px;
+}
+.date{
+    color: yellow;
+}
+.date2{
+    color: yellow;
+}
